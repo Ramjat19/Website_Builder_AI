@@ -32,11 +32,11 @@ The project utilizes the following technologies:
 ### Steps to Run the Project  
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/yourusername/bolt-clone.git  
+   git clone https://github.com/Ramjat19/Website_Builder_AI.git  
    ```  
 2. **Navigate to the project directory**:  
    ```bash  
-   cd bolt-clone  
+   cd Website_Builder_AI 
    ```  
 3. **Install dependencies**:  
    ```bash  
